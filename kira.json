@@ -1,0 +1,322 @@
+{ 
+    
+    "Iklan": [
+        {
+        "status": "0",
+        "link": "https://play.google.com/store/apps/details?id=",
+        "interid": "ca-app-pub-3940256099942544/1033173712",
+        "nativeid": "ca-app-pub-3940256099942544/2247696110",
+        "openid":"ca-app-pub-3940256099942544/3419835294",
+        "deskripsi_update": "Ini mah hanya contoh saja promosi iklan via json",
+        "link_update": "https://www.google.com/",
+        "interval": 3,
+        "pengaturan_iklan":"1",
+        "startappid":"",
+        "version_app":1,
+        "fan_inter":"2852946238312394_2852949924978692",
+        "fan_banner_native":"2852946238312394_2852949721645379",
+         "id_inmobi":"767cadb132bf4c8fa6acf9069ef0434f",
+        "inmobi_inter":1615315482697,
+        "inmobi_banner":1615950220882,
+        "hpk_admob1":"insurance",
+        "hpk_admob2":"bank",
+        "hpk_admob3":"healt",
+        "hpk_admob4":"car",
+        "hpk_admob5":"Paytm"
+        }
+    ],
+    
+    "More":
+  [
+    {
+    "id":1,
+    "judul":"Ultraman Tips and Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/SyZoduwq2lYfg2wy1LkmoCw-2Nf3yBS-7vU6ExCNA1jVLWD8juEG00t3DbgPE1Qgq8g=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.kuntilo.orbwall.sergukredit"
+    },
+    {
+    "id":2,
+    "judul":"Bakugan Wallpaper",
+    "image":"https://play-lh.googleusercontent.com/yHJGDgbQjiif3-mbG929qqsF-jQxBhXnLw1C6rZvRqUgyU4rzWdhBDDZoIjCiMaAaA=s180",
+    "link":"https://play.google.com/store/apps/details?id=com.bakuganwall.orbhdtramen"
+    }
+  ],
+
+
+"Categories": [
+    {
+      "id": 1,
+      "nama_cat": "Escape",
+      "gambar": "https://ia801509.us.archive.org/6/items/mage5/mage2.jpg"
+
+    },
+    {
+      "id": 2,
+      "nama_cat": "Tower Of Hell",
+      "gambar": "https://ia601404.us.archive.org/18/items/tower5/tower1.jpg"
+
+    },
+    {
+      "id": 3,
+      "nama_cat": "adoptme",
+      "gambar": "https://ia601504.us.archive.org/13/items/adopt9/adopt6.jpg"
+
+    }
+  ],
+
+  "Data":
+[
+    {
+      "id":1,
+      "id_guide":"001",
+      "nama_cat":"Escape",
+      "judul":"OBBY GRANDMA ESCAPE 1",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage1.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_1.html",
+      "deskripsi":"Still feel the boxes facing the rigors of the duel Arena in the Escape Grandma's House Obby"
+    },
+    {
+      "id":1,
+      "id_guide":"002",
+      "nama_cat":"Escape",
+      "judul":"OBBY GRANDMA ESCAPE 2",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage2.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_2.html",
+      "deskripsi":"Creature-body moving very slow tambun remains a fairly potent tanker unit to be used in any arena"
+    },
+    {
+      "id":1,
+      "id_guide":"003",
+      "nama_cat":"Escape",
+      "judul":"OBBY GRANDMA ESCAPE 3",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage3.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_3.html",
+      "deskripsi":"There are some stages you don’t know where is safe nor where is dangerous"
+    },
+    {
+      "id":1,
+      "id_guide":"004",
+      "nama_cat":"Escape",
+      "judul":"OBBY TOTAL BONUS",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage4.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_4.html",
+      "deskripsi":"Despite the uniformity of the unit skeleton in it make this deck impressed thematic"
+    },
+    {
+      "id":1,
+      "id_guide":"005",
+      "nama_cat":"Escape",
+      "judul":"OBBY PLAY MODS 1",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage5.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_5.html",
+      "deskripsi":"You might ask why Tesla? Well, it's pretty important for you to understand that the Tesla"
+    },
+    {
+      "id":1,
+      "id_guide":"006",
+      "nama_cat":"Escape",
+      "judul":"OBBY PLAY MODS 2",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage6.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_6.html",
+      "deskripsi":"So you get Escape Grandma's House Obby in the fourth"
+    },
+    {
+      "id":1,
+      "id_guide":"007",
+      "nama_cat":"Escape",
+      "judul":"OBBY ARENA TOP",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage7.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_7.html",
+      "deskripsi":"A row of cards on the deck is arguably professional players"
+    },
+    {
+      "id":1,
+      "id_guide":"008",
+      "nama_cat":"Escape",
+      "judul":"OBBY BUTTON PLAY",
+      "image":"http://www.guettakingdom.com/guide/grandmas/mage8.jpg",
+      "link":"http://www.guettakingdom.com/guide/grandmas/guide_8.html",
+      "deskripsi":"With over thousands of an increasingly complex combination of cards"
+    },
+    {
+      "id":3,
+      "id_guide":"01",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Collecting pets.",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt1.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_1.html",
+      "deskripsi":"All your items and pets are stored in your backpack"
+    },
+    {
+      "id":3,
+      "id_guide":"02",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Collecting items and toys.",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt2.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_2.html",
+      "deskripsi":"Press the backpack symbol at the bottom of your screen."
+    },
+    {
+      "id":3,
+      "id_guide":"03",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Playing with your items and toys.",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt3.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_3.html",
+      "deskripsi":"n your streak is fun to keep track of when you log in"
+    },
+    {
+      "id":3,
+      "id_guide":"04",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Trading pets",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt4.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_4.html",
+      "deskripsi":"Trading pets and items with other players."    
+    },
+    {
+      "id":3,
+      "id_guide":"05",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Getting a bigger house.",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt5.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_5.html",
+      "deskripsi":"Skill success for arena games This is my daughter's favorite part of the game."
+    },
+    {
+      "id":3,
+      "id_guide":"06",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Decorating your house.",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt6.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_6.html",
+      "deskripsi":"Decorating your house.Adopt Me top level support"    
+    },
+    {
+      "id":3,
+      "id_guide":"07",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Players can then add other activities.",
+      "image":"hhttp://www.guettakingdom.com/guide/adoptme/adopt7.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_7.html",
+      "deskripsi":"Adopt Me Bonus and trick populer user" 
+    },
+    {
+      "id":3,
+      "id_guide":"08",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME first thing my daughters had",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt8.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_8.html",
+      "deskripsi":"No Longer Available: Scoob!"     
+    },
+    {
+      "id":3,
+      "id_guide":"09",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Coins Bonus",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt9.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_9.html",
+      "deskripsi":"With over thousands of an increasingly complex combination of cards"
+    },
+    {
+      "id":3,
+      "id_guide":"010",
+      "nama_cat":"adoptme",
+      "judul":"ADOPTME Reward Roblx TOP 100",
+      "image":"http://www.guettakingdom.com/guide/adoptme/adopt10.jpg",
+      "link":"http://www.guettakingdom.com/guide/adoptme/guide_10.html",
+      "deskripsi":"Rare Pets and Ultra-Rare Pets"    
+    },
+    {
+      "id":2,
+      "id_guide":"1",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL START ARENA",
+      "image":"http://www.guettakingdom.com/guide/tower/tower1.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_1.html",
+      "deskripsi":"Welcome to the Tower of Hell Wiki! We are a community with 305 articles"
+    },
+    {
+      "id":2,
+      "id_guide":"2",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Round Based",
+      "image":"http://www.guettakingdom.com/guide/tower/tower2.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_2.html",
+      "deskripsi":"Tower of Hell is a round-based obby game created by YXCeptional Studios"    
+    },
+    {
+      "id":2,
+      "id_guide":"3",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Bloxy Award for Best Round-Based",
+      "image":"http://www.guettakingdom.com/guide/tower/tower3.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_3.html",
+      "deskripsi":"The game won a Bloxy Award for Best Round-Based Game at the 7th Annual Bloxy Awards event"
+    },
+    {
+      "id":2,
+      "id_guide":"4",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Membership PRO",
+      "image":"http://www.guettakingdom.com/guide/tower/tower4.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_4.html",
+      "deskripsi":"Players can purchase a membership subscription through the menu"    
+    },
+    {
+      "id":2,
+      "id_guide":"5",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Pro Towers",
+      "image":"http://www.guettakingdom.com/guide/tower/tower5.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_5.html",
+      "deskripsi":"Players can access Pro Towers by going through the door that is tilted"
+    },
+    {
+      "id":2,
+      "id_guide":"6",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Sections",
+      "image":"http://www.guettakingdom.com/guide/tower/tower6.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_6.html",
+      "deskripsi":"Sections Players can access Pro Towers"    
+    },
+    {
+      "id":2,
+      "id_guide":"7",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL RANDOM PLAYER ONLINE",
+      "image":"http://www.guettakingdom.com/guide/tower/tower7.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_7.html",
+      "deskripsi":"Random Sections Players can access Pro Towers"
+    },
+    {
+      "id":2,
+      "id_guide":"8",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Former Staff",
+      "image":"http://www.guettakingdom.com/guide/tower/tower8.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_8.html",
+      "deskripsi":"MasonLua - Former Admin"    
+    },
+    {
+      "id":2,
+      "id_guide":"9",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Coins Bonus",
+      "image":"http://www.guettakingdom.com/guide/tower/tower9.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_9.html",
+      "deskripsi":"Ket_Overkill - Builder/Former Admin"
+    },
+    {
+      "id":2,
+      "id_guide":"10",
+      "nama_cat":"Tower Of Hell",
+      "judul":"TOWER OF HELL Trivia",
+      "image":"http://www.guettakingdom.com/guide/tower/tower10.jpg",
+      "link":"http://www.guettakingdom.com/guide/tower/guide_10.html",
+      "deskripsi":"According to SulakeGames"    
+    }
+  ]
+}
